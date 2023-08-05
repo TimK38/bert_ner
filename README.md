@@ -1,4 +1,4 @@
-# ner_project 新增這個
+# ner_project 
 
 命名實體實作_by_bert
 
